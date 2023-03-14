@@ -82,9 +82,7 @@ const handleReset=()=>{
       </div>
 
     </div>
-
-  
-      );
+ );
 }
 
 export default App;
